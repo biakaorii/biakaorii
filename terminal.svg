@@ -3,10 +3,10 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&amp;display=swap');
       .terminal-text { font-family: 'Fira Code', monospace; font-size: 14px; }
-      .prompt-user { fill: #3BB143; }
+      .prompt-user { fill: #fdb4bf; }
       .prompt-path { fill: #7aa2f7; }
       .output { fill: #e0e0e0; }
-      .status { fill: #a5e075; }
+      .status { fill: #ffcdd4; }
       .command { fill: #c9d1d9; opacity: 0.7; }
       .cursor {
         animation: blink 1.2s infinite;
@@ -47,6 +47,6 @@
     </text>
     
     <!-- Blinking cursor (positioned after the command text) -->
-    <rect x="410" y="162" width="8" height="16" fill="#3BB143" class="cursor"/>
+    <rect x="410" y="162" width="8" height="16" fill="#fdb4bf" class="cursor"/>
   </g>
 </svg>

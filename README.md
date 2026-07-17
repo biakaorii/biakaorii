@@ -2,25 +2,12 @@
 
 **Estudante de Sistemas de Informação | Desenvolvedora em formação**
 
-```
-biakaorii@github:~$ whoami
-Beatriz Kaori Barros Takahashi
-
-biakaorii@github:~$ role
-Estudante de Sistemas de Informação — UFRPE
-
-biakaorii@github:~$ skills
-Python, SQL
-
-biakaorii@github:~$ status
-🚀 Sempre aprendendo...
-
-biakaorii@github:~$ read_profile --explore█
-```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/biakaorii/biakaorii/main/terminal.svg" alt="Terminal" />
+</p>
 ---
 
-## Bem-vindo ao meu GitHub! 👋
+## Bem-vindo ao meu GitHub! 
 
 Sou Beatriz Kaori Barros Takahashi, estudante de Sistemas de Informação na Universidade Federal Rural de Pernambuco (UFRPE). Aqui compartilho projetos, aprendizados e reflexões sobre desenvolvimento. Seu feedback, sugestões ou colaborações são sempre bem-vindos — e se houver um projeto em que possa contribuir, estou à disposição.
 

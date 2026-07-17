@@ -13,26 +13,24 @@ Sou Beatriz Kaori Barros Takahashi, estudante de Sistemas de Informação na Uni
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrizkaoritakahashi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-kaori-barros-takahashi-44261a347/)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biakaorii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biakaorii&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## Estatísticas
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biakaorii&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biakaorii&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biakaorii&theme=github_dark)
 
 ---
 
